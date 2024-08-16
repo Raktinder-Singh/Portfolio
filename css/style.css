@@ -1011,6 +1011,7 @@ footer a{
     .home-container .home-img img{
         width: 65%;
         transform: translate(80px, -180px);
+        margin-bottom: 60px;
     }
 
     .home .home-container .info{
